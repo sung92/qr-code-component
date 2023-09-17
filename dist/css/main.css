@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  display: grid;
+  min-height: 100vh;
+  place-content: center;
+}
+
+.card__img {
+  height: 10rem;
+  width: 10rem;
+}
+
+/*# sourceMappingURL=main.css.map */

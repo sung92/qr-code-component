@@ -1,0 +1,18 @@
+@use "../abstracts/function" as f;
+@use "../abstracts/colors";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: f.rem(15px);
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--color-grey);
+
+    display: grid;
+    min-height: 100vh;
+    place-content: center;
+}

@@ -1,0 +1,39 @@
+@use "./abstracts/function" as f;
+
+.card {
+    padding: f.rem(10px);
+    background-color: var(--color-white);
+    border-radius: f.rem(11px);
+    max-width: f.rem(320px);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: f.rem(20px);
+}
+
+.card__img {
+    border-radius: f.rem(11px);
+    height: f.rem(288px);
+    width: f.rem(288px);
+}
+
+.card__content {
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.card__title {
+    font-size: f.rem(24px);
+    font-weight: 700;
+}
+
+.card__content p {
+    font-size: f.rem(16px);
+    color: var(--color-brand-light);
+    padding: f.rem(16px);
+}
