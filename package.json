@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --no-minify"
+    "build": "parcel build index.html"
   },
   "author": "Sung Jin Cho",
   "license": "ISC",
   "dependencies": {
+    "parcel": "^2.9.3",
     "sass": "^1.67.0",
     "sass-loader": "^13.3.2"
   },
