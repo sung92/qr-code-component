@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "npx -p parcel-bundler parcel build index.html"
+    "build": "npx parcel index.html"
   },
   "author": "Sung Jin Cho",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "@parcel/transformer-sass": "^2.9.3",
     "cssnano": "^6.0.1",
     "parcel-bundler": "^1.12.5",
-    "postcss": "^8.4.29"
+    "postcss": "^8.4.29",
+    "postcss-preset-env": "^6.7.0"
   }
 }
