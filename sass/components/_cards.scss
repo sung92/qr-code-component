@@ -1,4 +1,4 @@
-@use "./abstracts/function" as f;
+@use "../abstracts/function" as f;
 
 .card {
     padding: f.rem(10px);
