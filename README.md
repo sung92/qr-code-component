@@ -22,7 +22,7 @@ First time I used a CSS reset.
 
 ### Links
 
-- Solution URL: TBA
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-I6wsSMUbhG](https://www.frontendmentor.io/solutions/qr-code-component-I6wsSMUbhG)
 - Live Site URL: [https://qr-code-component-sung.netlify.app/](https://qr-code-component-sung.netlify.app/)
 
 ## My process
