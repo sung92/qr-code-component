@@ -22,8 +22,8 @@ First time I used a CSS reset.
 
 ### Links
 
-- Solution URL: [Add solution URL here](TBA)
-- Live Site URL: [Add live site URL here](https://qr-code-component-sung.netlify.app/)
+- Solution URL: TBA
+- Live Site URL: [https://qr-code-component-sung.netlify.app/](https://qr-code-component-sung.netlify.app/)
 
 ## My process
 
@@ -34,7 +34,7 @@ So the process was not difficult per se. I had just finished my first HTML+CSS+S
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- CSS reset(https://github.com/mayank99/reset.css) - To baseline cross-browser styles
+- [CSS reset](https://github.com/mayank99/reset.css) - To baseline cross-browser styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
