@@ -1,7 +1,5 @@
-@use "./components/cards";
+@use "./abstracts/resets";
+
 @use "./layouts/base";
 
-
-
-
-
+@use "./components/cards";

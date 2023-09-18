@@ -1,13 +1,13 @@
-8171
+8172
 117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\mime-types133394072865502114 1
 130C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@types\estree\README.md133394126546131674 0
 127C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\semver\bin\semver.js133394144762014953 0
 121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\domelementtype133394144759442614 1
-98C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist133394149383689676 1
+98C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist133394810942665129 1
 103C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.cache\42133394073137793560 1
 113C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\base-x133394144758531785 1
 136C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\watchpack\lib\LinkResolver.js133394126548193542 0
-104C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.gitignore133394075900636678 0
+104C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.gitignore133394792218962649 0
 153C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\jest-worker\build\workers\NodeThreadsWorker.js133394126546341849 0
 150C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\optimize\MangleExportsPlugin.js133394126554021270 0
 163C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133394144761904854 0
@@ -54,10 +54,6 @@
 147C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\ids\NaturalChunkIdsPlugin.js133394126554421526 0
 100C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\design133373693060000000 1
 100C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\images133373693060000000 1
-155C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\entities\lib\encode.d.ts133394144762955812 0
-158C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133394144758802036 0
-120C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\color-convert133394144759172369 1
-136C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\lib\restructure\utils.js133394144763596398 0
 124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\svgo\package.json133394144763286115 0
 131C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\glob-parent\package.json133394060793321626 0
 165C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\schemas\plugins\container\ContainerPlugin.check.js133394126552088407 0
@@ -71,7 +67,7 @@
 157C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\entities\lib\encode.js.map133394144762215136 0
 156C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\optimize\AggressiveSplittingPlugin.js133394126551100298 0
 133C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\lib\esm\sort.js133394144760773824 0
-104C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\index.html133394118964939594 0
+104C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\index.html133394792894954149 0
 129C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@webassemblyjs\ast\lib133394126560296103 1
 127C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\buffer-from\index.js133394072861478460 0
 111C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\package-lock.json133394145046888621 0
@@ -130,7 +126,7 @@
 121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@webassemblyjs133394126544980626 1
 127C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@types\node\net.d.ts133394126546882342 0
 134C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\util\LazySet.js133394126553851099 0
-108C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\abstracts133394095963471917 1
+108C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\abstracts133394803320103398 1
 161C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133394144762965818 0
 152C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133394144761514497 0
 164C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo-node.js133394144763145983 0
@@ -143,10 +139,10 @@
 149C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\optimize\ConcatenatedModule.js133394126551969458 0
 169C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133394144762905771 0
 146C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\packager-css\src\CSSPackager.js133394144758461722 0
-108C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\main.scss133394117827097229 0
+108C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\main.scss133394804495208168 0
 129C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\xxhash-wasm\LICENSE.md133394144759532695 0
 152C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\htmlnano\lib\modules\removeAttributeQuotes.js133394144761044071 0
-117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\layouts\_base.scss133394118348929423 0
+117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\layouts\_base.scss133394796617567466 0
 135C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\posthtml-render\package.json133394144758311585 0
 141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\uri-js\dist\esnext\schemes\http.js133394072862329235 0
 153C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\addeventlistener.js133394071853000949 0
@@ -156,7 +152,7 @@
 159C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133394144761944894 0
 131C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\ajv\lib\dotjs\comment.js133394072873409307 0
 156C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\once-event-listener.js133394071859937258 0
-121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\components\_cards.scss133394149236162761 0
+121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\components\_cards.scss133394810942294828 0
 129C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\webpack.js133394126556180647 0
 139C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\SizeFormatHelpers.js133394126555550088 0
 126C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\fill-range\index.js133394060793291603 0
@@ -176,6 +172,23 @@
 153C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\helpers\_\_class_private_field_loose_base133394144764877559 1
 127C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\browserslist\node.js133394071852740707 0
 123C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\abstracts\_function.scss133394034552407063 0
+138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\ChunkRenderError.js133394126551653403 0
+162C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133394144764927608 0
+162C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\CommonJsImportsParserPlugin.js133394126551807797 0
+143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\core\test\fixtures\glob-like133394144760723779 1
+124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\binary-extensions133394060793391691 1
+158C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts133394144762665553 0
+172C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133394144764977656 0
+103C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.cache\b0133394073138694375 1
+124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\src\misc.cpp133394144763506316 0
+121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\sass\abstracts\_resets.scss133394803463068516 0
+141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-tree\cjs\syntax\node\Value.cjs133394144764066820 0
+138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\RequestShortener.js133394126555109688 0
+166C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133394144760913952 0
+156C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\core\bindings\binding_core_wasm\package.json133394144759592749 0
+123C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\helpers\cjs133394144763566366 1
+117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\parse-json133394144758431695 1
+119C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\import-fresh133394144758701941 1
 149C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\optimize\MinChunkSizePlugin.js133394126554081319 0
 167C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133394144759152357 0
 140C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\mdn-data\css\at-rules.schema.json133394144759362546 0
@@ -195,10 +208,6 @@
 157C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\schemas\plugins\schemes\HttpUriPlugin.json133394126556420872 0
 123C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\mime-db\index.js133394072861318315 0
 111C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@gar133394060269571903 1
-132C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\node-addon-api\LICENSE.md133394144760763821 0
-165C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\async-modules\AwaitDependenciesInitFragment.js133394126551407708 0
-147C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\UnsupportedFeatureWarning.js133394126555930427 0
-161C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\ModuleHotDeclineDependency.js133394126554310352 0
 147C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\fullscreen.js133394071858475929 0
 147C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\es6-module.js133394071858215693 0
 141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\ModuleTypeConstants.js133394126554379018 0
@@ -231,7 +240,7 @@
 131C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\helpers\_\_to_array133394144765758368 1
 153C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\view-transitions.js133394071861268470 0
 160C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\AMDRequireArrayDependency.js133394126551130875 0
-133C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\qr-code-component-main.3464ddca.js133394149383669654 0
+133C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\qr-code-component-main.3464ddca.js133394793981875997 0
 118C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@jridgewell133394072849287838 1
 125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\mime-types\LICENSE133394072859866996 0
 143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\node_modules\msgpackr\README.md133394144762505408 0
@@ -413,13 +422,6 @@
 115C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\anymatch133394060793361664 1
 176C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\utils.js133394144762455354 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\sass\types\util\promise_or.d.ts133394060793742008 0
-138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\ChunkRenderError.js133394126551653403 0
-162C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133394144764927608 0
-162C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\CommonJsImportsParserPlugin.js133394126551807797 0
-143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\core\test\fixtures\glob-like133394144760723779 1
-124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\binary-extensions133394060793391691 1
-158C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts133394144762665553 0
-172C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133394144764977656 0
 142C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133394144760923962 0
 145C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\testfeat.js133394071860878114 0
 152C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\domutils\package.json133394144760703771 0
@@ -445,6 +447,10 @@
 143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\jest-worker\build\PriorityQueue.d.ts133394126546562050 0
 124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\parcel\src\bin.js133394144758411676 0
 135C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\MultiCompiler.js133394126554389037 0
+155C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\entities\lib\encode.d.ts133394144762955812 0
+158C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133394144758802036 0
+120C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\color-convert133394144759172369 1
+136C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\lib\restructure\utils.js133394144763596398 0
 117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\color-name133394144758431695 1
 137C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\util\createHash.js133394126552216526 0
 157C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133394144764737431 1
@@ -608,15 +614,6 @@
 143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@jridgewell\resolve-uri\package.json133394072863400215 0
 116C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\immutable133394060793481773 1
 125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\micromatch\LICENSE133394144757641075 0
-156C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\core\bindings\binding_core_wasm\package.json133394144759592749 0
-123C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\helpers\cjs133394144763566366 1
-117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\parse-json133394144758431695 1
-119C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\import-fresh133394144758701941 1
-103C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.cache\b0133394073138694375 1
-124C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\src\misc.cpp133394144763506316 0
-141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-tree\cjs\syntax\node\Value.cjs133394144764066820 0
-138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\RequestShortener.js133394126555109688 0
-166C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133394144760913952 0
 118C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\is-arrayish133394144759292485 1
 140C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\core\test\fixtures\config133394144759873006 1
 149C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-select\lib\pseudo-selectors\pseudos.js133394144760673735 0
@@ -775,7 +772,7 @@
 116C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\path-type133394144758701941 1
 143C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\dialog.js133394071857955456 0
 126C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\json5\lib\util.d.ts133394144760943983 0
-117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.8d8029cf.css133394149383499501 0
+117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.8d8029cf.css133394810942645115 0
 150C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\DelegatedModuleFactoryPlugin.js133394126552490247 0
 117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\picocolors133394071852720689 1
 168C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\HarmonyExportExpressionDependency.js133394126553119075 0
@@ -1785,6 +1782,10 @@
 144C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\svgo\plugins\removeEmptyContainers.js133394144762215136 0
 129C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\esrecurse\esrecurse.js133394126546131674 0
 142C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\UnhandledSchemeError.js133394126555920419 0
+132C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\node-addon-api\LICENSE.md133394144760763821 0
+165C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\async-modules\AwaitDependenciesInitFragment.js133394126551407708 0
+147C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\UnsupportedFeatureWarning.js133394126555930427 0
+161C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\dependencies\ModuleHotDeclineDependency.js133394126554310352 0
 137C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\UseStrictPlugin.js133394126555970465 0
 120C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\css-tree\dist133394144765277928 1
 150C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\source-map-support\register-hook-require.js133394072862429320 0
@@ -2225,7 +2226,7 @@
 151C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\webpack\lib\ids\OccurrenceModuleIdsPlugin.js133394126554640496 0
 127C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\msgpackr\unpack.d.ts133394144762745621 0
 103C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.cache\1b133394073136622493 1
-109C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.html133394149383579578 0
+109C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.html133394793982236323 0
 141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\terser-webpack-plugin\package.json133394126548853273 0
 130C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\js-yaml\lib\type\set.js133394144761384381 0
 126C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@swc\core\util.d.ts133394144761164182 0
@@ -2621,7 +2622,7 @@
 146C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\maxlength.js133394071859366742 0
 169C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133394144758621875 0
 121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\csso\README.md133394144763696484 0
-121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.8d8029cf.css.map133394149383509510 0
+121C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.8d8029cf.css.map133394810942655123 0
 162C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133394072871297397 0
 142C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\terser\lib\compress\tighten-body.js133394126546962418 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\update-browserslist-db\index.js133394071852250269 0
@@ -3923,7 +3924,7 @@
 137C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\dependencies\lmdb-data-v1133394144757661092 1
 132C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\dependencies\lz4\lib133394144764267004 1
 145C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133394144763986745 0
-125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\image-qr-code.6d400710.png133394149383369381 0
+125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\image-qr-code.6d400710.png133394793981795917 0
 141C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\core\lib\public\Symbols.js133394144764347082 0
 158C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133394144760263364 0
 152C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\x-frame-options.js133394071861558738 0
@@ -5574,7 +5575,7 @@
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\regions\AT.js133394071854982745 0
 151C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\features\xml-serializer.js133394071861588762 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\regions\AU.js133394071855042809 0
-125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\favicon-32x32.654148d5.png133394149383349363 0
+125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\favicon-32x32.654148d5.png133394793981785909 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\regions\BD.js133394071855663372 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\regions\BH.js133394071855823516 0
 138C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\node_modules\caniuse-lite\data\regions\BI.js133394071855843539 0
@@ -8076,7 +8077,7 @@
 125C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\image-qr-code.bb650ff5.png133394119844927130 0
 117C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\index.09bdfeac.css133394149284219055 0
 116C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\main.07544d9b.css133394119844887098 0
-137C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\qr-code-component-main.3464ddca.js.map133394149383689676 0
+137C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\dist\qr-code-component-main.3464ddca.js.map133394793981896008 0
 120C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\design\desktop-preview.jpg133373693060000000 0
 118C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\design\mobile-design.jpg133373693060000000 0
 103C:\Users\Sung Jin\Desktop\FrontendMentor\Newbie\qr-code-component-main\qr-code-component-main\.cache\03133394073136202123 1

@@ -1,36 +1,49 @@
-.card {
-  background-color: var(--color-white);
-  border-radius: .6875rem;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 1.25rem;
-  max-width: 20rem;
-  padding: .625rem;
-  display: flex;
+*, :before, :after {
+  box-sizing: border-box;
 }
 
-.card__img {
-  border-radius: .6875rem;
-  width: 18rem;
-  height: 18rem;
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd {
+  margin: 0;
 }
 
-.card__content {
-  text-align: center;
-  flex-direction: column;
-  display: flex;
+ul[role="list"], ol[role="list"] {
+  list-style: none;
 }
 
-.card__title {
-  font-size: 1.5rem;
-  font-weight: 700;
+html:focus-within {
+  scroll-behavior: smooth;
 }
 
-.card__content p {
-  color: var(--color-brand-light);
-  padding: 1rem;
-  font-size: 1rem;
+body {
+  text-rendering: optimizespeed;
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img, picture {
+  max-width: 100%;
+  display: block;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+
+  *, :before, :after {
+    scroll-behavior: auto !important;
+    transition-duration: .01ms !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+  }
 }
 
 :root {
@@ -50,9 +63,38 @@ body {
   background-color: var(--color-grey);
   place-content: center;
   min-height: 100vh;
+  padding: 0 .625rem;
   font-family: Outfit, sans-serif;
   font-size: .9375rem;
   display: grid;
+}
+
+.card {
+  background-color: var(--color-white);
+  text-align: center;
+  border-radius: .6875rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 20rem;
+  padding: .625rem;
+  display: flex;
+}
+
+.card__img {
+  border-radius: .6875rem;
+}
+
+.card__title {
+  margin-top: 1em;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.card p {
+  color: var(--color-brand-light);
+  padding: 1rem;
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=index.8d8029cf.css.map */
